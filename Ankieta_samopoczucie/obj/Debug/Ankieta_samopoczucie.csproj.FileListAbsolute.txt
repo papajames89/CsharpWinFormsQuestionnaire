@@ -1,0 +1,33 @@
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie\Ankieta_samopoczucie\bin\Debug\Ankieta_samopoczucie.exe.config
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie\Ankieta_samopoczucie\bin\Debug\Ankieta_samopoczucie.exe
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie\Ankieta_samopoczucie\bin\Debug\Ankieta_samopoczucie.pdb
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.csprojAssemblyReference.cache
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.Form1.resources
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.Properties.Resources.resources
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.csproj.GenerateResource.cache
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.csproj.CoreCompileInputs.cache
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.exe
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.pdb
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.Wynik.resources
+C:\Users\hip9k\Downloads\Ankieta_samopoczucie\Ankieta_samopoczucie\bin\Debug\Ankieta_samopoczucie.exe.config
+C:\Users\hip9k\Downloads\Ankieta_samopoczucie\Ankieta_samopoczucie\bin\Debug\Ankieta_samopoczucie.exe
+C:\Users\hip9k\Downloads\Ankieta_samopoczucie\Ankieta_samopoczucie\bin\Debug\Ankieta_samopoczucie.pdb
+C:\Users\hip9k\Downloads\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.csprojAssemblyReference.cache
+C:\Users\hip9k\Downloads\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.Form1.resources
+C:\Users\hip9k\Downloads\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.Properties.Resources.resources
+C:\Users\hip9k\Downloads\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.Wynik.resources
+C:\Users\hip9k\Downloads\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.csproj.GenerateResource.cache
+C:\Users\hip9k\Downloads\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.csproj.CoreCompileInputs.cache
+C:\Users\hip9k\Downloads\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.exe
+C:\Users\hip9k\Downloads\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.pdb
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie_v2\Ankieta_samopoczucie\Ankieta_samopoczucie\bin\Debug\Ankieta_samopoczucie.exe.config
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie_v2\Ankieta_samopoczucie\Ankieta_samopoczucie\bin\Debug\Ankieta_samopoczucie.exe
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie_v2\Ankieta_samopoczucie\Ankieta_samopoczucie\bin\Debug\Ankieta_samopoczucie.pdb
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie_v2\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.csprojAssemblyReference.cache
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie_v2\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.Form1.resources
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie_v2\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.Properties.Resources.resources
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie_v2\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.Wynik.resources
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie_v2\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.csproj.GenerateResource.cache
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie_v2\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.csproj.CoreCompileInputs.cache
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie_v2\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.exe
+D:\Informatyka\3 semestr\Programowanie c#\Lab\Zad samopoczucie\Ankieta_samopoczucie_v2\Ankieta_samopoczucie\Ankieta_samopoczucie\obj\Debug\Ankieta_samopoczucie.pdb
